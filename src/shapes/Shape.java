@@ -10,6 +10,8 @@ public abstract class Shape implements Comparable<Shape> {
 	 */
 	public int compareTo(Shape shape) {
 		// TODO Implement me
+		
+		
 	}
 
 	public abstract double calculateArea();
